@@ -9,3 +9,6 @@ uvicorn
 streamlit
 imbalanced-learn
 requests
+gunicorn
+python-multipart
+
