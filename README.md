@@ -52,3 +52,7 @@ The system has identified **Productivity Score** and **Work Hours Per Day** as t
 
 ---
 *Developed for Proactive Workplace Mental Health.*
+
+---
+*Maintained by acaberoy*
+
